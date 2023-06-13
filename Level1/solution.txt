@@ -1,0 +1,2 @@
+sudo0x18
+any password starting with s and over 2 chars long
